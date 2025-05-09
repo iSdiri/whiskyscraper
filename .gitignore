@@ -1,0 +1,26 @@
+# Scrapy
+*.log
+*.pid
+.scrapy/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
